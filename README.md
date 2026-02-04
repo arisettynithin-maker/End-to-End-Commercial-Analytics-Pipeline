@@ -40,7 +40,7 @@ End-to-End-Commercial-Analytics-Pipeline/
 - outputs/figures/: Key visual outputs used in reporting
 - outputs/tables/: Final analytical datasets
 - powerbi/: Interactive dashboard and snapshots
-- report/: Executive-ready PDF reports
+- report/: Executive-ready PDF report and PPT Presentation
 - src/: Reusable data processing and utility scripts
 
 ---
