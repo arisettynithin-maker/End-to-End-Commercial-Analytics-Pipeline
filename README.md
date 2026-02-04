@@ -33,6 +33,15 @@ End-to-End-Commercial-Analytics-Pipeline/
 ├── Ingestion_db.py
 ├── README.md
 ```
+---
+
+## Repository Structure
+- notebooks/: Exploratory and decision-focused analysis
+- outputs/figures/: Key visual outputs used in reporting
+- outputs/tables/: Final analytical datasets
+- powerbi/: Interactive dashboard and snapshots
+- report/: Executive-ready PDF reports
+- src/: Reusable data processing and utility scripts
 
 ---
 
